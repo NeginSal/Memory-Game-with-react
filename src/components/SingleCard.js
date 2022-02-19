@@ -1,3 +1,5 @@
+import './SingleCard.css'
+
 const SingleCard = ({ card }) => {
   return (
     <div className="card">
